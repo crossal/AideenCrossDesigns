@@ -1,0 +1,102 @@
+html {
+	border-top: 5px solid #fff;
+	/*background: #58DDAF;*/
+	color: black;
+	line-height: 1.4em;
+    /*font-size: 1em;
+    line-height: 1.4;*/
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+header {
+	text-align: center;
+}
+
+header h1 {
+	font: 5em 'Alex Brush', Helvetica, Sans-serif;
+	margin-bottom: -20px;
+	margin-top: 20px;
+	padding: 0;
+}
+
+header li {
+	display: inline;
+	text-decoration: none;
+	margin-left: 10px;
+	margin-righ: 10px;
+}
+
+header li  a{
+	text-decoration: none;
+}
+
+header li a:visited {
+	color: black;
+}
+
+header li.selected a, header li.active a, header li.current a, header li a:hover {
+	text-decoration: underline;
+	color: #3399FF;
+}
+
+/* SLIDER STYLE */
+/*@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);	
+
+h1 {
+  color: #fff;
+  text-align: center;
+  font-weight: 300;
+}*/
+
+.slider {
+  position: relative;
+  overflow: hidden;
+  margin: 20px auto 0 auto;
+  border-radius: 4px;
+}
+
+.slider ul {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 200px;
+  list-style: none;
+}
+
+.slider ul li {
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: /*200*/500px;
+  height: /*300*/708px;
+  background: #ccc;
+  text-align: center;
+  line-height: 300px;
+}
+
+.slider_option {
+  position: relative;
+  margin: 10px auto;
+  width: 160px;
+  font-size: 18px;
+}
+
+/*.slider ui li img.resize {
+	max-width:500px;
+	height: auto;
+}*/
+
+/*.slider ui li img.resize {
+    display: block;
+    max-width:500px;
+    max-height:708px;
+    width: auto;
+    height: auto;
+}*/
