@@ -17,6 +17,10 @@ header {
 	text-align: center;
 }
 
+hr {
+	width: 75%;
+}
+
 header h1 {
 	font: 5em 'Alex Brush', Helvetica, Sans-serif;
 	margin-bottom: -20px;
@@ -41,7 +45,7 @@ header li a:visited {
 
 header li.selected a, header li.active a, header li.current a, header li a:hover {
 	text-decoration: underline;
-	color: #3399FF;
+	color: #ff3399;
 }
 
 /* SLIDER STYLE */

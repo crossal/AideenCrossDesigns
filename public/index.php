@@ -2,7 +2,8 @@
 <html>
 <head>
 	<title>Aideen Cross Designs</title>
-	<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+	<!--<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>-->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 	<script src="js/image_slider.js" type="text/javascript"></script>
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Alex+Brush" />
@@ -22,7 +23,7 @@
 				</ul>
 			</nav>
 		</header>
-		
+
 		<div class="core">
 			<div class="slider">
 				<ul>
