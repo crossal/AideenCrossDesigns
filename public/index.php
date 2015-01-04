@@ -3,9 +3,9 @@
 <head>
 	<title>Aideen Cross Designs</title>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="js/image_slider.js" type="text/javascript"></script>
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Alex+Brush" />
+	<script src="js/image_slider.js" type="text/javascript"></script>
 </head>
 <body>
 	<div class="wrapperBody">
