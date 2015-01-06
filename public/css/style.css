@@ -1,6 +1,6 @@
 html {
 	border-top: 5px solid #fff;
-	/*background: #58DDAF;*/
+	/*background: #FFF5EE;*/
 	color: black;
 	line-height: 1.4em;
     /*font-size: 1em;
@@ -32,7 +32,7 @@ header li {
 	display: inline;
 	text-decoration: none;
 	margin-left: 10px;
-	margin-righ: 10px;
+	margin-right: 10px;
 }
 
 header li  a{
@@ -44,8 +44,14 @@ header li a:visited {
 }
 
 header li.selected a, header li.active a, header li.current a, header li a:hover {
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 	color: #ff3399;
+}
+
+.core p {
+	text-align: center;
+	width: 45%;
+	margin: 0 auto;
 }
 
 /* SLIDER STYLE */
@@ -56,6 +62,15 @@ h1 {
   text-align: center;
   font-weight: 300;
 }*/
+
+.gallery li {
+	display: table;
+	margin: 0 auto;
+}
+
+.gallery li img {
+	padding: 5px;
+}
 
 .slider {
   position: relative;
