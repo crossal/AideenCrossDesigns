@@ -16,10 +16,10 @@
 				<ul>
 					<li><a href="index.php">Home</a></li>
 					<li><a style="text-decoration: underline; color: #ff3399" href="gallery.php">Gallery</a></li>
-					<li><a href="">Collections</a></li>
-					<li><a href="">Our Brides</a></li>
+					<li><a href="collections.php">Collections</a></li>
+					<li><a href="our_brides.php">Our Brides</a></li>
 					<li><a href="about.php">Meet Aideen</a></li>
-					<li><a href="">Contact Us</a></li>
+					<li><a href="contact.php">Contact Us</a></li>
 				</ul>
 			</nav>
 		</header>
@@ -28,13 +28,37 @@
 		
 		<div class="core">
 			<div class="gallery">
-				<ul>
+				<ul>				
 					<li>
-						<img src="images/AideenCross1Small.jpg" alt=""/>
-						<img src="images/AideenCross3Small.jpg" alt=""/>
+						<img src="images/gallery/gallery_image_1.jpg" alt=""/>
 					</li>
-					<li><img src="images/AideenCross2Small.jpg" alt=""/></li>
-					<!--<li><img src="images/AideenCross3Small.jpg" alt=""/></li>-->
+					<li>
+						<img src="images/gallery/gallery_image_2.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_image_3.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_image_4.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_image_5.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_image_6.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_image_7.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_image_8.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_image_9.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_image_10.jpg" alt=""/>
+					</li>
 				</ul>  
 			</div>
 		</div>

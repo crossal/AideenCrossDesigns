@@ -43,6 +43,10 @@ header li a:visited {
 	color: black;
 }
 
+header li a:link {
+	color: black;
+}
+
 header li.selected a, header li.active a, header li.current a, header li a:hover {
 	/*text-decoration: underline;*/
 	color: #ff3399;
@@ -63,14 +67,33 @@ h1 {
   font-weight: 300;
 }*/
 
-.gallery li {
-	display: table;
+/*GALLERY */
+
+.gallery {
 	margin: 0 auto;
+	width: 60%;
+    height: 120px;
+}
+
+.gallery ul {
+	width: 100%;
+	padding: 0;
+	text-align: center;
+}
+
+.gallery li {
+	padding: 0;
+	margin: 0 auto;
+	display:inline-block;
 }
 
 .gallery li img {
+    height: 500px;
 	padding: 5px;
+	margin: 0 auto;
 }
+
+/* SLIDER */
 
 .slider {
   position: relative;

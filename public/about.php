@@ -16,10 +16,10 @@
 				<ul>
 					<li><a href="index.php">Home</a></li>
 					<li><a href="gallery.php">Gallery</a></li>
-					<li><a href="">Collections</a></li>
-					<li><a href="">Our Brides</a></li>
+					<li><a href="collections.php">Collections</a></li>
+					<li><a href="our_brides.php">Our Brides</a></li>
 					<li><a style="text-decoration: underline; color: #ff3399" href="about.php">Meet Aideen</a></li>
-					<li><a href="">Contact Us</a></li>
+					<li><a href="contact.php">Contact Us</a></li>
 				</ul>
 			</nav>
 		</header>

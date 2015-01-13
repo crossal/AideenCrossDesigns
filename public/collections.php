@@ -14,9 +14,9 @@
 			<h1>Aideen Cross Designs</h1>
 			<nav>
 				<ul>
-					<li><a style="text-decoration: underline; color: #ff3399" href="index.php">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li><a href="gallery.php">Gallery</a></li>
-					<li><a href="collections.php">Collections</a></li>
+					<li><a style="text-decoration: underline; color: #ff3399" href="collections.php">Collections</a></li>
 					<li><a href="our_brides.php">Our Brides</a></li>
 					<li><a href="about.php">Meet Aideen</a></li>
 					<li><a href="contact.php">Contact Us</a></li>
@@ -27,11 +27,20 @@
 		<hr>
 		
 		<div class="core">
-			<div class="slider">
+			<div class="gallery">
 				<ul>
-					<li><img src="images/AideenCross1Small.jpg" alt=""/></li>
-					<li><img src="images/AideenCross2Small.jpg" alt=""/></li>
-					<li><img src="images/AideenCross3Small.jpg" alt=""/></li>
+					<li>
+						<img src="images/AideenCross1.jpg" alt=""/>
+						<p>Siobhain</p>
+					</li>
+					<li>
+						<img src="images/AideenCross3.jpg" alt=""/>
+						<p>Roisin</p>
+					</li>
+					<li>
+						<img src="images/AideenCross2.jpg" alt=""/>
+						<p>Olivia</p>
+					</li>
 				</ul>  
 			</div>
 		</div>

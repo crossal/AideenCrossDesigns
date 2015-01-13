@@ -14,10 +14,10 @@
 			<h1>Aideen Cross Designs</h1>
 			<nav>
 				<ul>
-					<li><a style="text-decoration: underline; color: #ff3399" href="index.php">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li><a href="gallery.php">Gallery</a></li>
 					<li><a href="collections.php">Collections</a></li>
-					<li><a href="our_brides.php">Our Brides</a></li>
+					<li><a style="text-decoration: underline; color: #ff3399" href="our_brides.php">Our Brides</a></li>
 					<li><a href="about.php">Meet Aideen</a></li>
 					<li><a href="contact.php">Contact Us</a></li>
 				</ul>
@@ -27,11 +27,23 @@
 		<hr>
 		
 		<div class="core">
-			<div class="slider">
+			<p>
+			Thank you to the Brides & Grooms who were so kind to send back these wonderful wedding photos.
+			<br>
+			Wishing you all peace and happiness for the future.
+			</p>
+		
+			<div class="gallery">
 				<ul>
-					<li><img src="images/AideenCross1Small.jpg" alt=""/></li>
-					<li><img src="images/AideenCross2Small.jpg" alt=""/></li>
-					<li><img src="images/AideenCross3Small.jpg" alt=""/></li>
+					<li>
+						<img src="images/our_brides/our_brides_1.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/our_brides/our_brides_2.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/our_brides/our_brides_3.jpg" alt=""/>
+					</li>
 				</ul>  
 			</div>
 		</div>
