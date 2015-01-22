@@ -19,6 +19,7 @@
 					<li><a href="gallery.php">Gallery</a></li>
 					<li><a href="collections.php">Collections</a></li>
 					<li><a href="our_brides.php">Our Brides</a></li>
+					<li><a href="flowergirl_communion.php">Flowergirl/Communion</a></li>
 					<li><a href="about.php">Meet Aideen</a></li>
 					<li><a style="text-decoration: underline; color: #ff3399" href="contact.php">Contact Us</a></li>
 				</ul>

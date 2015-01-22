@@ -18,6 +18,7 @@
 					<li><a style="text-decoration: underline; color: #ff3399" href="gallery.php">Gallery</a></li>
 					<li><a href="collections.php">Collections</a></li>
 					<li><a href="our_brides.php">Our Brides</a></li>
+					<li><a href="flowergirl_communion.php">Flowergirl/Communion</a></li>
 					<li><a href="about.php">Meet Aideen</a></li>
 					<li><a href="contact.php">Contact Us</a></li>
 				</ul>
@@ -30,34 +31,34 @@
 			<div class="gallery">
 				<ul>				
 					<li>
-						<img src="images/gallery/gallery_image_1.jpg" alt=""/>
+						<img src="images/gallery/gallery_1.jpg" alt=""/>
 					</li>
 					<li>
-						<img src="images/gallery/gallery_image_2.jpg" alt=""/>
+						<img src="images/gallery/gallery_2.jpg" alt=""/>
 					</li>
 					<li>
-						<img src="images/gallery/gallery_image_3.jpg" alt=""/>
+						<img src="images/gallery/gallery_3.jpg" alt=""/>
 					</li>
 					<li>
-						<img src="images/gallery/gallery_image_4.jpg" alt=""/>
+						<img src="images/gallery/gallery_4.jpg" alt=""/>
 					</li>
 					<li>
-						<img src="images/gallery/gallery_image_5.jpg" alt=""/>
+						<img src="images/gallery/gallery_5.jpg" alt=""/>
 					</li>
 					<li>
-						<img src="images/gallery/gallery_image_6.jpg" alt=""/>
+						<img src="images/gallery/gallery_6.jpg" alt=""/>
 					</li>
 					<li>
-						<img src="images/gallery/gallery_image_7.jpg" alt=""/>
+						<img src="images/gallery/gallery_7.jpg" alt=""/>
 					</li>
 					<li>
-						<img src="images/gallery/gallery_image_8.jpg" alt=""/>
+						<img src="images/gallery/gallery_8.jpg" alt=""/>
 					</li>
 					<li>
-						<img src="images/gallery/gallery_image_9.jpg" alt=""/>
+						<img src="images/gallery/gallery_9.jpg" alt=""/>
 					</li>
 					<li>
-						<img src="images/gallery/gallery_image_10.jpg" alt=""/>
+						<img src="images/gallery/gallery_10.jpg" alt=""/>
 					</li>
 				</ul>  
 			</div>

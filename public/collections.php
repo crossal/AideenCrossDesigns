@@ -18,6 +18,7 @@
 					<li><a href="gallery.php">Gallery</a></li>
 					<li><a style="text-decoration: underline; color: #ff3399" href="collections.php">Collections</a></li>
 					<li><a href="our_brides.php">Our Brides</a></li>
+					<li><a href="flowergirl_communion.php">Flowergirl/Communion</a></li>
 					<li><a href="about.php">Meet Aideen</a></li>
 					<li><a href="contact.php">Contact Us</a></li>
 				</ul>
@@ -30,16 +31,20 @@
 			<div class="gallery">
 				<ul>
 					<li>
-						<img src="images/AideenCross1.jpg" alt=""/>
+						<img src="images/collections/collections_1.jpg" alt=""/>
 						<p>Siobhain</p>
 					</li>
 					<li>
-						<img src="images/AideenCross3.jpg" alt=""/>
+						<img src="images/collections/collections_2.jpg" alt=""/>
 						<p>Roisin</p>
 					</li>
 					<li>
-						<img src="images/AideenCross2.jpg" alt=""/>
+						<img src="images/collections/collections_3.jpg" alt=""/>
 						<p>Olivia</p>
+					</li>
+					<li>
+						<img src="images/collections/collections_4.jpg" alt=""/>
+						<p>Eimear</p>
 					</li>
 				</ul>  
 			</div>

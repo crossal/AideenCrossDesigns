@@ -18,6 +18,7 @@
 					<li><a href="gallery.php">Gallery</a></li>
 					<li><a href="collections.php">Collections</a></li>
 					<li><a style="text-decoration: underline; color: #ff3399" href="our_brides.php">Our Brides</a></li>
+					<li><a href="flowergirl_communion.php">Flowergirl/Communion</a></li>
 					<li><a href="about.php">Meet Aideen</a></li>
 					<li><a href="contact.php">Contact Us</a></li>
 				</ul>
@@ -43,6 +44,12 @@
 					</li>
 					<li>
 						<img src="images/our_brides/our_brides_3.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/our_brides/our_brides_4.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/our_brides/our_brides_5.jpg" alt=""/>
 					</li>
 				</ul>  
 			</div>
