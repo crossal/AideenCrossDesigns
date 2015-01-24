@@ -39,6 +39,9 @@
 			email: aideen.cross@gmail.com
 			<br>
 			<a href="https://www.facebook.com/pages/Aideen-Cross-Bridal-Designer/361128480668507" class="sb circle blue facebook">Facebook</a>
+			<br>
+			<br>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d152884.09981943754!2d-6.99341729999999!3d53.22118220000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485d82e42f2b24f5%3A0x52d1963b77d3963f!2s1+New+St%2C+Co.+Kildare!5e0!3m2!1sen!2sie!4v1422101525841" width="600" height="450" frameborder="0" style="border:0"></iframe>
 			</p>
 		</div>
 		
