@@ -28,6 +28,12 @@
 		<hr>
 		
 		<div class="core">
+			<p>
+				FREE EVENT/CULTURE NIGHT. <br>
+				A WEDDING DESIGN SHOWCASE <br>
+				AT AIDEEN CROSS STUDIO <br>
+				FRIDAY 18TH SEPT, 7-8PM. <br>
+			</p>
 			<div class="slider">
 				<ul>
 					<li><img src="images/AideenCross1Small.jpg" alt=""/></li>
