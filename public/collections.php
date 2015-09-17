@@ -36,15 +36,31 @@
 					</li>
 					<li>
 						<img src="images/collections/collections_2.jpg" alt=""/>
-						<p>Roisin</p>
+						<p>Olivia</p>
 					</li>
 					<li>
 						<img src="images/collections/collections_3.jpg" alt=""/>
-						<p>Olivia</p>
+						<p>Roisin</p>
 					</li>
 					<li>
 						<img src="images/collections/collections_4.jpg" alt=""/>
 						<p>Eimear</p>
+					</li>
+					<li>
+						<img src="images/collections/collection_louise.jpg" alt=""/>
+						<p>Louise</p>
+					</li>
+					<li>
+						<img src="images/collections/collection_aoife.jpg" alt=""/>
+						<p>Aoife</p>
+					</li>
+					<li>
+						<img src="images/collections/collection_carol.jpg" alt=""/>
+						<p>Carol</p>
+					</li>
+					<li>
+						<img src="images/collections/collection_niamh.jpg" alt=""/>
+						<p>Niamh</p>
 					</li>
 				</ul>  
 			</div>

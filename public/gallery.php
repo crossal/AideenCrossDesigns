@@ -60,6 +60,27 @@
 					<li>
 						<img src="images/gallery/gallery_10.jpg" alt=""/>
 					</li>
+					<li>
+						<img src="images/gallery/collection_aoife.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/collection_niamh.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_11.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/collection_carol.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/collection_louise.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_12.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/gallery/gallery_13.jpg" alt=""/>
+					</li>
 				</ul>  
 			</div>
 		</div>
