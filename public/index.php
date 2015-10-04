@@ -29,10 +29,9 @@
 		
 		<div class="core">
 			<p>
-				FREE EVENT/CULTURE NIGHT. <br>
-				A WEDDING DESIGN SHOWCASE <br>
-				AT AIDEEN CROSS STUDIO <br>
-				FRIDAY 18TH SEPT, 7-8PM. <br>
+				JOIN US AT THE KILLASHEE HOTEL SHOWCASE, NAAS <br>
+				SUNDAY 4TH OCT, 2PM-5PM <br>
+				VIEW OUR NEW BRIDAL COLLECTION OR CHAT TO ME ABOUT YOUR OWN IDEAS <br>
 			</p>
 			<div class="slider">
 				<ul>
