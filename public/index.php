@@ -29,9 +29,10 @@
 		
 		<div class="core">
 			<p>
-				JOIN US AT THE KILLASHEE HOTEL SHOWCASE, NAAS <br>
-				SUNDAY 4TH OCT, 2PM-5PM <br>
-				VIEW OUR NEW BRIDAL COLLECTION OR CHAT TO ME ABOUT YOUR OWN IDEAS <br>
+				Exhibiting Bridal Collection at <br>
+				- Wedding Showcase at Killashee Hotel, Naas, Sunday 17th January, 2-6pm <br>
+				- Wedding Fair at Keadeen Hotel, Sunday 21st February, 2-6pm<br>
+				- Wedding Fair at Johnstown House Hotel, Sunday 28th February, 2-6pm<br>
 			</p>
 			<div class="slider">
 				<ul>
