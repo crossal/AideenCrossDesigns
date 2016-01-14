@@ -32,7 +32,7 @@
 				Exhibiting Bridal Collection at <br>
 				- Wedding Showcase at Killashee Hotel, Naas, Sunday 17th January, 2-6pm <br>
 				- Wedding Fair at Keadeen Hotel, Sunday 21st February, 2-6pm<br>
-				- Wedding Fair at Johnstown House Hotel, Sunday 28th February, 2-6pm<br>
+				- Wedding Fair at Johnstown House Hotel, Enfield, Sunday 28th February, 2-6pm<br>
 			</p>
 			<div class="slider">
 				<ul>
