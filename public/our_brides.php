@@ -37,6 +37,22 @@
 			<div class="gallery">
 				<ul>
 					<li>
+						<img src="images/our_brides/our_brides_6.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/our_brides/our_brides_7.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/our_brides/our_brides_8.jpg" alt=""/>
+					</li>
+					<p>One of my lovely Brides on her wedding day in the Autumn. 
+						Thank you Roisin for the fabulous photos and the kind message, 
+						it was a pleasure to make your dress. 
+						Wishing you both every happiness.
+					</p>
+					</br>
+				
+					<li>
 						<img src="images/our_brides/our_brides_1.jpg" alt=""/>
 					</li>
 					<li>
