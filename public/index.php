@@ -30,9 +30,15 @@
 		<div class="core">
 			<p>
 				Exhibiting Bridal Collection at <br>
-				- Wedding Showcase at Killashee Hotel, Naas, Sunday 17th January, 2-6pm <br>
+				- Wedding Showcase at Killashee Hotel, Naas, Sunday 14th February, 2-6pm <br>
 				- Wedding Fair at Keadeen Hotel, Sunday 21st February, 2-6pm<br>
+				- Dunboyne Castle, Co. Meath, Sunday 28th February, 2-6pm<br>
 				- Wedding Fair at Johnstown House Hotel, Enfield, Sunday 28th February, 2-6pm<br>
+				- Westgrove Hotel, Clane, Sunday 7th February, 2-6pm<br>
+				- Osprey Hotel, Naas, Sunday 7th February, 1.30-5pm<br>
+			</p>
+			<p style="font-weight: bold">
+				Drop along to a wedding fair in your area and get your 10% voucher on the day
 			</p>
 			<div class="slider">
 				<ul>
@@ -43,6 +49,9 @@
 				</ul>  
 			</div>
 		</div>
+		
+		<!-- some page space -->
+		<br>
 		
 	</div>
 </body>
