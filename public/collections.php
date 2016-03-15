@@ -11,7 +11,10 @@
 	<div class="wrapperBody">
 	
 		<header>
-			<h1>Aideen Cross Designs</h1>
+			<!--<h1>Aideen Cross Designs</h1>-->
+			<div class="banner">
+				<img src="images/logo.jpg" alt=""/>
+			</div>
 			<nav>
 				<ul>
 					<li><a href="index.php">Home</a></li>
@@ -30,6 +33,13 @@
 		<div class="core">
 			<div class="gallery">
 				<ul>
+					<li>
+						<img src="images/collections/collections_5.jpg" alt=""/>
+					</li>
+					<li>
+						<img src="images/collections/collections_6.jpg" alt=""/>
+					</li>
+					
 					<li>
 						<img src="images/collections/collections_1.jpg" alt=""/>
 						<p>Siobhain</p>

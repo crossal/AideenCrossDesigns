@@ -12,7 +12,10 @@
 	<div class="wrapperBody">
 	
 		<header>
-			<h1>Aideen Cross Designs</h1>
+			<!--<h1>Aideen Cross Designs</h1>-->
+			<div class="banner">
+				<img src="images/logo.jpg" alt=""/>
+			</div>
 			<nav>
 				<ul>
 					<li><a href="index.php">Home</a></li>

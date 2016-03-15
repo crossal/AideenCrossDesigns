@@ -1,5 +1,5 @@
 html {
-	border-top: 5px solid #fff;
+	/*border-top: 5px solid #fff;*/
 	/*background: #FFF5EE;*/
 	color: black;
 	line-height: 1.4em;
@@ -19,6 +19,13 @@ header {
 
 hr {
 	width: 75%;
+}
+
+header img {
+	/*margin: 0 auto;*/
+	margin: 0px 0px -5px 0px;
+	width: 30%;
+    /*height: 120px;*/
 }
 
 header h1 {
@@ -56,6 +63,10 @@ header li.selected a, header li.active a, header li.current a, header li a:hover
 	text-align: center;
 	width: 45%;
 	margin: 0 auto;
+}
+
+.banner {
+	background-color: #97A5D4;
 }
 
 /* SLIDER STYLE */

@@ -11,7 +11,10 @@
 	<div class="wrapperBody">
 	
 		<header>
-			<h1>Aideen Cross Designs</h1>
+			<!--<h1>Aideen Cross Designs</h1>-->
+			<div class="banner">
+				<img src="images/logo.jpg" alt=""/>
+			</div>
 			<nav>
 				<ul>
 					<li><a style="text-decoration: underline; color: #ff3399" href="index.php">Home</a></li>
@@ -46,6 +49,8 @@
 					<li><img src="images/AideenCross2Small.jpg" alt=""/></li>
 					<li><img src="images/AideenCross3Small.jpg" alt=""/></li>
 					<li><img src="images/AideenCross4Small.jpg" alt=""/></li>
+					<li><img src="images/AideenCross5Small.jpg" alt=""/></li>
+					<li><img src="images/AideenCross6Small.jpg" alt=""/></li>
 				</ul>  
 			</div>
 		</div>
