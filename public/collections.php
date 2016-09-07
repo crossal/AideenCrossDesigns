@@ -34,42 +34,55 @@
 			<div class="gallery">
 				<ul>
 					<li>
-						<img src="images/collections/collections_5.jpg" alt=""/>
+					<img src="images/collections/collections_grainne.jpg" alt=""/>
+						<p>Grainne</p>
 					</li>
 					<li>
-						<img src="images/collections/collections_6.jpg" alt=""/>
-					</li>
-					
-					<li>
-						<img src="images/collections/collections_1.jpg" alt=""/>
-						<p>Siobhain</p>
+						<img src="images/collections/collections_clodagh.jpg" alt=""/>
+						<p>Clodagh</p>
 					</li>
 					<li>
-						<img src="images/collections/collections_2.jpg" alt=""/>
-						<p>Olivia</p>
-					</li>
-					<li>
-						<img src="images/collections/collections_3.jpg" alt=""/>
-						<p>Roisin</p>
-					</li>
-					<li>
-						<img src="images/collections/collections_4.jpg" alt=""/>
-						<p>Eimear</p>
-					</li>
-					<li>
-						<img src="images/collections/collection_louise.jpg" alt=""/>
-						<p>Louise</p>
-					</li>
-					<li>
-						<img src="images/collections/collection_aoife.jpg" alt=""/>
+						<img src="images/collections/collections_aoife_2.jpg" alt=""/>
 						<p>Aoife</p>
 					</li>
 					<li>
-						<img src="images/collections/collection_carol.jpg" alt=""/>
+						<img src="images/collections/collections_grainne_2.jpg" alt=""/>
+						<p>Grainne</p>
+					</li>
+					<li>
+						<img src="images/collections/collections_louise_2.jpg" alt=""/>
+						<p>Louise</p>
+					</li>
+					<li>
+						<img src="images/collections/collections_siobhain.jpg" alt=""/>
+						<p>Siobhain</p>
+					</li>
+					<li>
+						<img src="images/collections/collections_olivia.jpg" alt=""/>
+						<p>Olivia</p>
+					</li>
+					<li>
+						<img src="images/collections/collections_roisin.jpg" alt=""/>
+						<p>Roisin</p>
+					</li>
+					<li>
+						<img src="images/collections/collections_eimear.jpg" alt=""/>
+						<p>Eimear</p>
+					</li>
+					<li>
+						<img src="images/collections/collections_louise.jpg" alt=""/>
+						<p>Louise</p>
+					</li>
+					<li>
+						<img src="images/collections/collections_aoife.jpg" alt=""/>
+						<p>Aoife</p>
+					</li>
+					<li>
+						<img src="images/collections/collections_carol.jpg" alt=""/>
 						<p>Carol</p>
 					</li>
 					<li>
-						<img src="images/collections/collection_niamh.jpg" alt=""/>
+						<img src="images/collections/collections_niamh.jpg" alt=""/>
 						<p>Niamh</p>
 					</li>
 				</ul>  

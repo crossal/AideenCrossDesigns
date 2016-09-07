@@ -31,17 +31,18 @@
 		<hr>
 		
 		<div class="core">
-			<p>
-				Exhibiting Bridal Collection at <br>
-				- Wedding Showcase at Killashee Hotel, Naas, Sunday 14th February, 2-6pm <br>
-				- Wedding Fair at Keadeen Hotel, Sunday 21st February, 2-6pm<br>
-				- Dunboyne Castle, Co. Meath, Sunday 28th February, 2-6pm<br>
-				- Wedding Fair at Johnstown House Hotel, Enfield, Sunday 28th February, 2-6pm<br>
-				- Westgrove Hotel, Clane, Sunday 7th February, 2-6pm<br>
-				- Osprey Hotel, Naas, Sunday 7th February, 1.30-5pm<br>
-			</p>
-			<p style="font-weight: bold">
-				Drop along to a wedding fair in your area and get your 10% voucher on the day
+			<p style="font-size: 110%">
+				AUTUMN WEDDING FAIRS<br><br>
+				
+				RATHSALLAGH COUNTRY HOUSE WEDDING FAIR<br>
+				Beautiful and romantic place located in Kildare/Wicklow<br>
+				SUNDAY 11TH SEPTEMBER'16<br>
+				2PM-5PM(fashion show by cat walk agency)<br><br>
+				
+				KILLASHEE HOUSE HOTEL WEDDING SHOWCASE<br>
+				A truly enchanted setting, just outside Naas<br>
+				SUNDAY 25TH SEPTEMBER'16<br>
+				2PM-6PM
 			</p>
 			<div class="slider">
 				<ul>
