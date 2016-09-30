@@ -46,12 +46,9 @@
 			</p>
 			<div class="slider">
 				<ul>
-					<li><img src="images/AideenCross1Small.jpg" alt=""/></li>
-					<li><img src="images/AideenCross2Small.jpg" alt=""/></li>
-					<li><img src="images/AideenCross3Small.jpg" alt=""/></li>
-					<li><img src="images/AideenCross4Small.jpg" alt=""/></li>
-					<li><img src="images/AideenCross5Small.jpg" alt=""/></li>
-					<li><img src="images/AideenCross6Small.jpg" alt=""/></li>
+					<li><img src="images/AideenCross9Small.jpg" alt=""/></li>
+					<li><img src="images/AideenCross8Small.jpg" alt=""/></li>
+					<li><img src="images/AideenCross7Small.jpg" alt=""/></li>
 				</ul>  
 			</div>
 		</div>
