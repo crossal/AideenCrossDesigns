@@ -1,10 +1,49 @@
+.navbar-default.tackNav .navbar-nav>.active>a, .navbar-default.tackNav .navbar-nav>.active>a:focus, .navbar-default.tackNav .navbar-nav>.active>a:hover {
+    color: #FFFFFF;
+    background-color: #8b99c6;
+}
+
+.navbar-default.tackNav .navbar-nav>li>a:focus, .navbar-default.tackNav .navbar-nav>li>a:hover {
+    color: #FFFFFF;
+    background-color: #8b99c6;
+}
+
+.navbar-default.tackNav .navbar-nav>li>a {
+    color: #000000;
+}
+
+.navbar-default.tackNav {
+	background-color: #97A5D4;
+}
+
+.navbar-nav>li>.dropdown-menu {
+	z-index: 9999;
+}
+
+.tackNav .navbar-brand, .tackNav .navbar-brand:hover, .tackNav .navbar-brand:focus {
+  height: 70px;
+  color: #000000;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 36px;
+  font-weight: 100;
+  padding-top: 25px;
+}
+
+.tackNav .navbar-brand .sub-brand {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	font-style: italic;
+}
+
+.tackNav .nav >li >a {
+	padding-top: 25px;
+  padding-bottom: 25px;
+  color: #000000;
+}
+
 html {
-	/*border-top: 5px solid #fff;*/
-	/*background: #FFF5EE;*/
 	color: black;
 	line-height: 1.4em;
-    /*font-size: 1em;
-    line-height: 1.4;*/
 }
 
 html, body {
@@ -13,56 +52,21 @@ html, body {
   font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
-header {
-	text-align: center;
-}
-
-hr {
-	width: 75%;
-}
-
-header img {
-	/*margin: 0 auto;*/
-	margin: 0px 0px -5px 0px;
-	width: 30%;
-    /*height: 120px;*/
-}
-
-header h1 {
-	font: 5em 'Alex Brush', Helvetica, Sans-serif;
-	margin-bottom: -20px;
-	margin-top: 20px;
-	padding: 0;
-}
-
-header li {
-	display: inline;
-	text-decoration: none;
-	margin-left: 10px;
-	margin-right: 10px;
-}
-
-header li  a{
-	text-decoration: none;
-}
-
-header li a:visited {
-	color: black;
-}
-
-header li a:link {
-	color: black;
-}
-
-header li.selected a, header li.active a, header li.current a, header li a:hover {
-	/*text-decoration: underline;*/
-	color: #ff3399;
-}
-
 .core p {
 	text-align: center;
-	width: 45%;
 	margin: 0 auto;
+}
+
+@media (min-width: 702px) {
+    .core p {
+		text-align: center;
+		width: 45%;
+		margin: 0 auto;
+	}
+}
+
+.core {
+	margin: 10px;
 }
 
 .banner {
