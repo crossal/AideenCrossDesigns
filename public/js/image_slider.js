@@ -4,8 +4,8 @@ jQuery(document).ready(function ($) {
     }, 5000);
   
 	var slideCount = $('.slider ul li').length;
-	var slideWidth = $('.slider ul li').width();
-	var slideHeight = $('.slider ul li').height();
+	var slideWidth = 500;//$('.slider ul li').width();
+	var slideHeight = 700;//$('.slider ul li').height();
 	var sliderUlWidth = slideCount * slideWidth;
 	
 	$('.slider').css({ width: slideWidth, height: slideHeight });
