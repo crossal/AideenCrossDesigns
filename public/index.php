@@ -60,18 +60,17 @@
 		<div class="core">
 			<p style="font-size: 110%">	
 				View all the latest bridal styles from Aideen at<br>
-				Hotel keadeen wedding fair, Newbridge<br>
-				February 5th, 2-5pm<br>
+				<br>
+				Bridge House Hotel wedding showcase, Tullamore<br>
+				Sunday 12th February, 12-5pm<br>
 				<br>
 				Mount Wolseley Hotel wedding showcase, Carlow<br>
-				February 19th, 2-5pm<br>
+				Sunday 19th February, 2-5pm<br>
 				<br>
-				I have a new year special running till end January '17<br>
-				New year special!<br>
-				Free headpiece with any veil ordered,<br>
-				And<br>
-				10% discount on all fur wrapes for the Bride, Bridesmaid and flowergirl too<br>
-				Offers available till 31st January '17<br>
+				Westrgrove Hotel, Naas<br>
+				Sunday 5th March, 2-5pm<br>
+				<br>
+				View Aideen's 2017 Bridal Collection at wedding showcase and pick up your 10% voucher towards your wedding dress.<br>
 			</p>
 			<div class="slider">
 				<ul>
