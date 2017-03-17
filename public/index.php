@@ -59,21 +59,13 @@
 		
 		<div class="core">
 			<p style="font-size: 110%">	
-				View all the latest bridal styles from Aideen at<br>
-				<br>
-				Bridge House Hotel wedding showcase, Tullamore<br>
-				Sunday 12th February, 12-5pm<br>
-				<br>
-				Mount Wolseley Hotel wedding showcase, Carlow<br>
-				Sunday 19th February, 2-5pm<br>
-				<br>
-				Westrgrove Hotel, Naas<br>
-				Sunday 5th March, 2-5pm<br>
+				Join us at the Dolman Hotel, Carlow, Wedding Fair on the 19th March, 2pm-5pm.<br>
 				<br>
 				View Aideen's 2017 Bridal Collection at wedding showcase and pick up your 10% voucher towards your wedding dress.<br>
 			</p>
 			<div class="slider">
 				<ul>
+					<li><img src="images/AideenCross10Small2.jpg" alt=""/></li>
 					<li><img src="images/AideenCross9Small.jpg" alt=""/></li>
 					<li><img src="images/AideenCross8Small.jpg" alt=""/></li>
 					<li><img src="images/AideenCross7Small.jpg" alt=""/></li>

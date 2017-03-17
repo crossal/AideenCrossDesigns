@@ -73,6 +73,10 @@ html, body {
 	background-color: #97A5D4;
 }
 
+img {
+    image-orientation: from-image;
+}
+
 /* SLIDER STYLE */
 /*@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);	
 

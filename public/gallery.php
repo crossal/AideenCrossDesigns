@@ -94,6 +94,55 @@
 				</div>
 			</div>
 			
+			<h4>Collections</h4>
+			
+			<hr>
+			
+			<div id="links">
+				<a href="images/collections/collection_grainne.jpg" title="Grainne" data-gallery>
+					<img src="images/collections/collection_grainne_teeny.jpg" alt="Grainne">
+				</a>
+				<a href="images/collections/collection_clodagh.jpg" title="Clodagh" data-gallery>
+					<img src="images/collections/collection_clodagh_teeny.jpg" alt="Clodagh">
+				</a>
+				<a href="images/collections/collection_aoife_2.jpg" title="Aoife" data-gallery>
+					<img src="images/collections/collection_aoife_2_teeny.jpg" alt="Aoife">
+				</a>
+				<a href="images/collections/collection_grainne_2.jpg" title="Grainne" data-gallery>
+					<img src="images/collections/collection_grainne_2_teeny.jpg" alt="Grainne">
+				</a>
+				<a href="images/collections/collection_louise_2.jpg" title="Louise" data-gallery>
+					<img src="images/collections/collection_louise_2_teeny.jpg" alt="Louise">
+				</a>
+				<a href="images/collections/collection_siobhain.jpg" title="Siobhain" data-gallery>
+					<img src="images/collections/collection_siobhain_teeny.jpg" alt="Siobhain">
+				</a>
+				<a href="images/collections/collection_olivia.jpg" title="Olivia" data-gallery>
+					<img src="images/collections/collection_olivia_teeny.jpg" alt="Olivia">
+				</a>
+				<a href="images/collections/collection_roisin.jpg" title="Roisin" data-gallery>
+					<img src="images/collections/collection_roisin_teeny.jpg" alt="Roisin">
+				</a>
+				<a href="images/collections/collection_eimear.jpg" title="Eimear" data-gallery>
+					<img src="images/collections/collection_eimear_teeny.jpg" alt="Eimear">
+				</a>
+				<a href="images/collections/collection_louise.jpg" title="Louise" data-gallery>
+					<img src="images/collections/collection_louise_teeny.jpg" alt="Louise">
+				</a>
+				<a href="images/collections/collection_aoife.jpg" title="Aoife" data-gallery>
+					<img src="images/collections/collection_aoife_teeny.jpg" alt="Aoife">
+				</a>
+				<a href="images/collections/collection_carol.jpg" title="Carol" data-gallery>
+					<img src="images/collections/collection_carol_teeny.jpg" alt="Carol">
+				</a>
+				<a href="images/collections/collection_niamh.jpg" title="Niamh" data-gallery>
+					<img src="images/collections/collection_niamh_teeny.jpg" alt="Niamh">
+				</a>
+			</div>
+			
+			<br>
+			<br>
+			
 			<h4>Gallery</h4>
 			
 			<hr>
@@ -155,82 +204,49 @@
 			<br>
 			<br>
 			
-			<h4>Collections</h4>
-			
-			<hr>
-			<div id="links">
-				<a href="images/collections/collection_grainne.jpg" title="Grainne" data-gallery>
-					<img src="images/collections/collection_grainne_teeny.jpg" alt="Grainne">
-				</a>
-				<a href="images/collections/collection_clodagh.jpg" title="Clodagh" data-gallery>
-					<img src="images/collections/collection_clodagh_teeny.jpg" alt="Clodagh">
-				</a>
-				<a href="images/collections/collection_aoife_2.jpg" title="Aoife" data-gallery>
-					<img src="images/collections/collection_aoife_2_teeny.jpg" alt="Aoife">
-				</a>
-				<a href="images/collections/collection_grainne_2.jpg" title="Grainne" data-gallery>
-					<img src="images/collections/collection_grainne_2_teeny.jpg" alt="Grainne">
-				</a>
-				<a href="images/collections/collection_louise_2.jpg" title="Louise" data-gallery>
-					<img src="images/collections/collection_louise_2_teeny.jpg" alt="Louise">
-				</a>
-				<a href="images/collections/collection_siobhain.jpg" title="Siobhain" data-gallery>
-					<img src="images/collections/collection_siobhain_teeny.jpg" alt="Siobhain">
-				</a>
-				<a href="images/collections/collection_olivia.jpg" title="Olivia" data-gallery>
-					<img src="images/collections/collection_olivia_teeny.jpg" alt="Olivia">
-				</a>
-				<a href="images/collections/collection_roisin.jpg" title="Roisin" data-gallery>
-					<img src="images/collections/collection_roisin_teeny.jpg" alt="Roisin">
-				</a>
-				<a href="images/collections/collection_eimear.jpg" title="Eimear" data-gallery>
-					<img src="images/collections/collection_eimear_teeny.jpg" alt="Eimear">
-				</a>
-				<a href="images/collections/collection_louise.jpg" title="Louise" data-gallery>
-					<img src="images/collections/collection_louise_teeny.jpg" alt="Louise">
-				</a>
-				<a href="images/collections/collection_aoife.jpg" title="Aoife" data-gallery>
-					<img src="images/collections/collection_aoife_teeny.jpg" alt="Aoife">
-				</a>
-				<a href="images/collections/collection_carol.jpg" title="Carol" data-gallery>
-					<img src="images/collections/collection_carol_teeny.jpg" alt="Carol">
-				</a>
-				<a href="images/collections/collection_niamh.jpg" title="Niamh" data-gallery>
-					<img src="images/collections/collection_niamh_teeny.jpg" alt="Niamh">
-				</a>
-			</div>
-			
-			<br>
-			<br>
-			
-			<h4>Our Brides</h4>
+			<h4>Real Weddings</h4>
 			
 			<hr>
 			
 			<div id="links">
-				<a href="images/our_brides/our_brides_6.jpg" title="" data-gallery>
-					<img src="images/our_brides/our_brides_6_teeny.jpg" alt="">
+				<a href="images/real_weddings/real_weddings_6.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_6_teeny.jpg" alt="">
 				</a>
-				<a href="images/our_brides/our_brides_7.jpg" title="" data-gallery>
-					<img src="images/our_brides/our_brides_7_teeny.jpg" alt="">
+				<a href="images/real_weddings/real_weddings_7.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_7_teeny.jpg" alt="">
 				</a>
-				<a href="images/our_brides/our_brides_8.jpg" title="" data-gallery>
-					<img src="images/our_brides/our_brides_8_teeny.jpg" alt="">
+				<a href="images/real_weddings/real_weddings_8.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_8_teeny.jpg" alt="">
 				</a>
-				<a href="images/our_brides/our_brides_1.jpg" title="" data-gallery>
-					<img src="images/our_brides/our_brides_1_teeny.jpg" alt="">
+				<a href="images/real_weddings/real_weddings_1.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_1_teeny.jpg" alt="">
 				</a>
-				<a href="images/our_brides/our_brides_2.jpg" title="" data-gallery>
-					<img src="images/our_brides/our_brides_2_teeny.jpg" alt="">
+				<a href="images/real_weddings/real_weddings_2.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_2_teeny.jpg" alt="">
 				</a>
-				<a href="images/our_brides/our_brides_3.jpg" title="" data-gallery>
-					<img src="images/our_brides/our_brides_3_teeny.jpg" alt="">
+				<a href="images/real_weddings/real_weddings_3.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_3_teeny.jpg" alt="">
 				</a>
-				<a href="images/our_brides/our_brides_4.jpg" title="" data-gallery>
-					<img src="images/our_brides/our_brides_4_teeny.jpg" alt="">
+				<a href="images/real_weddings/real_weddings_4.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_4_teeny.jpg" alt="">
 				</a>
-				<a href="images/our_brides/our_brides_5.jpg" title="" data-gallery>
-					<img src="images/our_brides/our_brides_5_teeny.jpg" alt="">
+				<a href="images/real_weddings/real_weddings_5.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_5_teeny.jpg" alt="">
+				</a>
+				<a href="images/real_weddings/real_weddings_9.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_9_teeny.jpg" alt="">
+				</a>
+				<a href="images/real_weddings/real_weddings_10.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_10_teeny.jpg" alt="">
+				</a>
+				<a href="images/real_weddings/real_weddings_11.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_11_teeny.jpg" alt="">
+				</a>
+				<a href="images/real_weddings/real_weddings_12.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_12_teeny.jpg" alt="">
+				</a>
+				<a href="images/real_weddings/real_weddings_13.jpg" title="" data-gallery>
+					<img src="images/real_weddings/real_weddings_13_teeny.jpg" alt="">
 				</a>
 			</div>
 			
@@ -256,6 +272,16 @@
 				</a>
 				<a href="images/flowergirl_communion/flowergirl_communion_5.jpg" title="" data-gallery>
 					<img src="images/flowergirl_communion/flowergirl_communion_5_teeny.jpg" alt="">
+				</a>
+				
+				<a href="images/flowergirl_communion/flowergirl_communion_6.jpg" title="" data-gallery>
+					<img src="images/flowergirl_communion/flowergirl_communion_6_teeny.jpg" alt="">
+				</a>
+				<a href="images/flowergirl_communion/flowergirl_communion_7.jpg" title="" data-gallery>
+					<img src="images/flowergirl_communion/flowergirl_communion_7_teeny.jpg" alt="">
+				</a>
+				<a href="images/flowergirl_communion/flowergirl_communion_8.jpg" title="" data-gallery>
+					<img src="images/flowergirl_communion/flowergirl_communion_8_teeny.jpg" alt="">
 				</a>
 			</div>
 		
