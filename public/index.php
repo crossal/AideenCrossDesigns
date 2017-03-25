@@ -58,9 +58,7 @@
 		</header>
 		
 		<div class="core">
-			<p style="font-size: 110%">	
-				Join us at the Dolman Hotel, Carlow, Wedding Fair on the 19th March, 2pm-5pm.<br>
-				<br>
+			<p style="font-size: 110%">
 				View Aideen's 2017 Bridal Collection at wedding showcase and pick up your 10% voucher towards your wedding dress.<br>
 			</p>
 			<div class="slider">
