@@ -60,46 +60,55 @@
 
 		<div class="core">
 			<p>
-			Aideen has over 25 years experience in Bridal Design and is one of Ireland's award 
-			winning designers, winning Bridal Designer of year at '96 Irish Brides Magazine 
-			awards
+			I have been running my Bridal Design business for nearly 30 years now (a life time of experience).
 			</p>
 			<br>
 			<p>
-			The bride can choose from Aideen's couture collection of wedding gowns on 
-			show at her studio in Kildare or decide to have a completely original dress 
-			designed by incorporating the brides own ideas with Aideen's expert advice and
-			experience, to create a totally unique wedding gown that will reflect the brides 
-			own personality and style. Aideen reminds each bride not to forget that their 
-			family and friends will want to see the real you on your big day.
+			Designing and creating is something I feel very passionate about.
+			I was taught to sew by my mother at an early age and followed on to the Grafton Academy 
+			to learn the skill of pattern making.
 			</p>
 			<br>
 			<p>
-			Aideen works closely with each bride, giving them plenty of time to discuss all 
-			aspects of the dress with her. Aideen is renowned for her attention to detail, 
-			use of exquisite fabrics and her honest, genuine and friendly nature.
+			It is a very different experience to have a dress designed and made for you.
+			Brides don't always find what they are looking for at first, so this is where I can help.
 			</p>
 			<br>
 			<p>
-			All of Aideen's creations are designed and produced at her studio in Rathangan. 
-			She prides herself on giving each bride one to one attention with every 
-			appointment.
+			Winning the Irish Bride of the Year Awards in '96 was a great honour and since then my business
+			has grown.
 			</p>
 			<br>
 			<p>
-			Aideen's studio is situated in the picturesque village of Rathangan, less than an 
-			hour from Dublin in the heart of the country.
+			You can choose a dress from my Couture Collection or decide to have a bespoke dress designed for you.
+			I love to cooperate the bride's own ideas with my advice to create a totally unique look.
+			I am willing to work with the bride until the dress is comfortable and the bride is happy.
 			</p>
 			<br>
 			<p>
-			She also designs and creates bridesmaids and flower-girl dresses along with bridal 
-			accessories such as veils and headpieces. Don't forget the mother of the 
-			bride/groom can also be catered for.
+			All my creations are designed and produced at my studio in Rathangan using only the finest fabrics
+			and laces sourced from Irish and International suppliers.
 			</p>
 			<br>
 			<p>
-			We work on an appointment only basis. Please call or email me to arrange a day 
-			or evening consultation.
+			I pride myself on giving each bride one to one attention with every appointment.
+			I'm here to help, advise and guide you to finally having the dream dress.
+			</p>
+			<br>
+			<p>
+			Veils & headpieces can also be ordered to compliment.
+			</p>
+			<br>
+			<p>
+			Bridesmaids, flowergirls and of course mothers of brides/grooms can also be catered for.
+			</p>
+			<br>
+			<p>
+			Simply call or email to arrange an appointment or discuss your ideas and get a quotation.
+			</p>
+			<br>
+			<p>
+			Appointments are advisable.
 			</p>
 			<br>
 			<br>
