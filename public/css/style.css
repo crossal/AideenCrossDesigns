@@ -63,6 +63,13 @@ html, body {
 	margin: 0 auto;
 }
 
+@media (max-width: 605px) {
+	.core iframe {
+		width: 95%;
+		height: 200px;
+	}
+}
+
 @media (min-width: 768px) {
     .core p {
 		width: 75%;
