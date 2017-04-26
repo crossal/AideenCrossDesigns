@@ -65,9 +65,9 @@
 			<br>
 			Main Street, Rathangan, Co. Kildare, Ireland.
 			<br>
-			Tel: 086-8325694
+			Tel: <a href="tel:086-8325694">086-8325694</a>
 			<br>
-			email: aideen.cross@gmail.com
+			email: <a href="mailto:aideen.cross@gmail.com">aideen.cross@gmail.com</a>
 			<br>
 			<a href="https://www.facebook.com/pages/Aideen-Cross-Bridal-Designer/361128480668507" class="sb circle blue facebook">Facebook</a>
 			<br>
