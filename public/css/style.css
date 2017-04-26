@@ -35,6 +35,12 @@
 	font-style: italic;
 }
 
+@media (max-width: 505px) {
+    .tackNav .navbar-brand .sub-brand {
+		display: none;
+	}
+}
+
 .tackNav .nav >li >a {
 	padding-top: 25px;
 	padding-bottom: 25px;
@@ -75,6 +81,12 @@ html, body {
 	
 	.tackNav .navbar-brand, .tackNav .navbar-brand:hover, .tackNav .navbar-brand:focus {
 		font-size: 36px;
+	}
+}
+
+@media (max-width: 290px) {
+	.tackNav .navbar-brand, .tackNav .navbar-brand:hover, .tackNav .navbar-brand:focus {
+		font-size: 18px;
 	}
 }
 
