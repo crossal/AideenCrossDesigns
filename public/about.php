@@ -1,4 +1,15 @@
 <!DOCTYPE html>
+<?php
+	include('../config.php');
+	
+	$mysqli = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
+	$result = mysqli_query($mysqli, "SELECT * FROM texts WHERE area = 'about'");
+	$about_page_text = "";
+	while ($row = mysqli_fetch_array($result)) {
+		$about_page_text = $row['text'];
+		$about_page_text = nl2br($about_page_text);
+	}
+?>
 <html>
 <head>
 	<title>Aideen Cross Designs</title>
@@ -60,62 +71,7 @@
 
 		<div class="core">
 			<p>
-			I have been running my Bridal Design business for nearly 30 years now (a life time of experience).
-			</p>
-			<br>
-			<p>
-			Designing and creating is something I feel very passionate about.
-			I was taught to sew by my mother at an early age and followed on to the Grafton Academy 
-			to learn the skill of pattern making.
-			</p>
-			<br>
-			<p>
-			It is a very different experience to have a dress designed and made for you.
-			Brides don't always find what they are looking for at first, so this is where I can help.
-			</p>
-			<br>
-			<p>
-			Winning the Irish Bride of the Year Awards in '96 was a great honour and since then my business
-			has grown.
-			</p>
-			<br>
-			<p>
-			You can choose a dress from my Couture Collection or decide to have a bespoke dress designed for you.
-			I love to cooperate the bride's own ideas with my advice to create a totally unique look.
-			I am willing to work with the bride until the dress is comfortable and the bride is happy.
-			</p>
-			<br>
-			<p>
-			All my creations are designed and produced at my studio in Rathangan using only the finest fabrics
-			and laces sourced from Irish and International suppliers.
-			</p>
-			<br>
-			<p>
-			I pride myself on giving each bride one to one attention with every appointment.
-			I'm here to help, advise and guide you to finally having the dream dress.
-			</p>
-			<br>
-			<p>
-			Veils & headpieces can also be ordered to compliment.
-			</p>
-			<br>
-			<p>
-			Bridesmaids, flowergirls and of course mothers of brides/grooms can also be catered for.
-			</p>
-			<br>
-			<p>
-			Simply call or email to arrange an appointment or discuss your ideas and get a quotation.
-			</p>
-			<br>
-			<p>
-			Appointments are advisable.
-			</p>
-			<br>
-			<br>
-			<p>
-			Tel: 086-8325694
-			<br>
-			email: aideen.cross@gmail.com
+				<?php echo $about_page_text ?>
 			</p>
 		</div>
 		

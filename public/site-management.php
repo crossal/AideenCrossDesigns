@@ -6,8 +6,8 @@
 	
 	if($_SERVER["REQUEST_METHOD"] == "POST") {
     
-		$username = mysqli_real_escape_string($db,$_POST['username']);
-		$password = mysqli_real_escape_string($db,$_POST['password']);
+		$username = $_POST['username'];
+		$password = $_POST['password'];
 			
 		$mysqli = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
 	  

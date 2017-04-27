@@ -1,4 +1,15 @@
 <!DOCTYPE html>
+<?php
+	include('../config.php');
+	
+	$mysqli = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
+	$result = mysqli_query($mysqli, "SELECT * FROM texts WHERE area = 'home_page'");
+	$home_page_text = "";
+	while ($row = mysqli_fetch_array($result)) {
+		$home_page_text = $row['text'];
+		$home_page_text = nl2br($home_page_text);
+	}
+?>
 <html>
 <head>
 	<title>Aideen Cross Designs</title>
@@ -59,7 +70,7 @@
 		
 		<div class="core">
 			<p style="font-size: 110%">
-				View Aideen's 2017 Bridal Collection at wedding showcase and pick up your 10% voucher towards your wedding dress.<br>
+				<?php echo $home_page_text ?>
 			</p>
 			<div class="slider">
 				<ul>

@@ -4,12 +4,9 @@
    
 	if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 		
-		$text = mysqli_real_escape_string($db,$_POST['text_input']);
-		$area = mysqli_real_escape_string($db,$_POST['input_area']);
-		
 		$stmt = $mysqli->prepare("UPDATE texts SET text = ? WHERE area = ?");
 		
-		$stmt->bind_param("ss", $text, $area);
+		$stmt->bind_param("ss", $_POST['text_input'], $_POST['input_area']);
 		
 		if (!$stmt->execute()) {
 			echo "Execute failed: (" . $stmt->errno . ") " . $stmt->error;
