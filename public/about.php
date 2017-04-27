@@ -72,6 +72,14 @@
 		<div class="core">
 			<p>
 				<?php echo $about_page_text ?>
+				
+				<br>
+				<br>
+				<br>
+					Tel: <a href="tel:086-8325694">086-8325694</a>
+				<br>
+					email: <a href="mailto:aideen.cross@gmail.com">aideen.cross@gmail.com</a>
+				<br>
 			</p>
 		</div>
 		
