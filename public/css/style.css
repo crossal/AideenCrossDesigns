@@ -1,0 +1,15 @@
+#mainNav .navbar-brand  {
+	font-family: 'Pinyon Script', cursive;
+	text-transform: none;
+}
+
+.acd-link {
+    color: #212529;
+	text-decoration: none
+}
+
+.acd-link:hover {
+    color: #f05f40;
+	text-decoration: none
+}
+
