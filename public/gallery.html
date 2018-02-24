@@ -117,52 +117,6 @@
 	    <!-- Custom scripts for this template -->
 	    <script src="js/creative.min.js"></script>
 
-		<!-- <script>
-			var xmlhttp = new XMLHttpRequest();
-
-			xmlhttp.onreadystatechange = function() {
-				if (xmlhttp.readyState == XMLHttpRequest.DONE) {
-					if (xmlhttp.status == 200) {
-					  var n = (xmlhttp.responseText.match(/jpg/g) || []).length;
-
-					  console.log('xhr',xmlhttp)
-
-					  for (var i = 1; i <= n; i++) {
-						var imageContainer = document.createElement("div");
-						imageContainer.className = "col-lg-4 col-sm-6";
-						var imageLink = document.createElement("a");
-						imageLink.className = "portfolio-box";
-						imageLink.href = "img/portfolio/fullsize/" + i + ".jpg";
-						imageContainer.appendChild(imageLink);
-						var image = document.createElement("img");
-						image.className = "img-fluid";
-						image.src = "img/portfolio/thumbnails/" + i + ".jpg";
-						imageLink.appendChild(image);
-						var captionContainer = document.createElement("div");
-						captionContainer.className = "portfolio-box-caption";
-						imageLink.appendChild(captionContainer);
-						var captionContent = document.createElement("div");
-						captionContent.className = "portfolio-box-caption-content";
-						captionContainer.appendChild(captionContent);
-						var categoryName = document.createElement("div");
-						categoryName.className = "project-category text-faded";
-						categoryName.textContent = "blah"
-						captionContent.appendChild(categoryName);
-						var projectName = document.createElement("div");
-						projectName.className = "project-name";
-						projectName.textContent = "blah2";
-						captionContent.appendChild(projectName);
-
-						document.getElementById("gallery_1").appendChild(imageContainer);
-					  }
-					}
-				}
-			};
-
-			xmlhttp.open("GET", "img/portfolio/thumbnails/", true);
-			xmlhttp.send();
-		</script> -->
-
 		<script>
 			var collectionsThumbnailsFolder = "img/collections/thumbnails/";
 			var collectionsBaseFolder = "img/collections/";
@@ -222,7 +176,7 @@
 
 			function appendImage(imageBaseFolder, imageName, image_container_name) {
 				var imageContainer = document.createElement("div");
-				imageContainer.className = "col-lg-2 col-sm-6";
+				imageContainer.className = "col-lg-2 col-sm-4";
 				var imageLink = document.createElement("a");
 				imageLink.className = "portfolio-box";
 				imageLink.href = imageBaseFolder + "fullsize/" + imageName;
