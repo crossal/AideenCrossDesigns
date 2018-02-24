@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="description" content="">
+		<meta name="author" content="">
+
+		<title>Aideen Cross Designs</title>
+
+		<!-- Bootstrap core CSS -->
+		<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+		<!-- Custom fonts for this template -->
+		<link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i|Pinyon+Script|Open+Sans|Alex+Brush" rel="stylesheet" type='text/css'>
+
+		<!-- Plugin CSS -->
+		<link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+		<!-- Custom styles for this template -->
+		<link href="css/creative.min.css" rel="stylesheet">
+
+		<!-- Custom style for this site -->
+		<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+	</head>
+
+	<body id="page-top">
+
+		<!-- Navigation -->
+	    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+	      <div class="container">
+	        <a class="navbar-brand js-scroll-trigger" href="#page-top">Aideen Cross Designs</a>
+	        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+	          <span class="navbar-toggler-icon"></span>
+	        </button>
+	        <div class="collapse navbar-collapse" id="navbarResponsive">
+	          <ul class="navbar-nav ml-auto">
+	            <li class="nav-item">
+	              <a class="nav-link js-scroll-trigger" href="index.html">Home Page</a>
+	            </li>
+	          </ul>
+	        </div>
+	      </div>
+	    </nav>
+
+		<section class="bg-dark text-white" id="section_collection">
+	      <div class="container text-center">
+	        <h2 class="mb-4">Collections</h2>
+	      </div>
+	    </section>
+
+		<section class="p-0 bg-dark">
+	      <div class="container-fluid p-0">
+	        <div class="row no-gutters popup-gallery" id="collections_images">
+
+	        </div>
+	      </div>
+	    </section>
+
+		<section class="bg-dark text-white">
+	      <div class="container text-center">
+	        <h2 class="mb-4">Real Weddings</h2>
+	      </div>
+	    </section>
+
+		<section class="p-0 bg-dark">
+	      <div class="container-fluid p-0">
+	        <div class="row no-gutters popup-gallery" id="real_weddings_images">
+
+	        </div>
+	      </div>
+	    </section>
+
+		<section class="bg-dark text-white">
+	      <div class="container text-center">
+	        <h2 class="mb-4">Flowergirl, Communion</h2>
+	      </div>
+	    </section>
+
+		<section class="p-0 bg-dark">
+	      <div class="container-fluid p-0">
+	        <div class="row no-gutters popup-gallery" id="flowergirl_communion_images">
+
+	        </div>
+	      </div>
+	    </section>
+
+		<section class="bg-dark text-white">
+	      <div class="container text-center">
+	        <h2 class="mb-4">Other</h2>
+	      </div>
+	    </section>
+
+		<section class="p-0 bg-dark">
+	      <div class="container-fluid p-0">
+	        <div class="row no-gutters popup-gallery" id="other_images">
+
+	        </div>
+	      </div>
+	    </section>
+
+		<!-- Bootstrap core JavaScript -->
+	    <script src="vendor/jquery/jquery.min.js"></script>
+	    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+	    <!-- Plugin JavaScript -->
+	    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+	    <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
+	    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+	    <!-- Custom scripts for this template -->
+	    <script src="js/creative.min.js"></script>
+
+		<!-- <script>
+			var xmlhttp = new XMLHttpRequest();
+
+			xmlhttp.onreadystatechange = function() {
+				if (xmlhttp.readyState == XMLHttpRequest.DONE) {
+					if (xmlhttp.status == 200) {
+					  var n = (xmlhttp.responseText.match(/jpg/g) || []).length;
+
+					  console.log('xhr',xmlhttp)
+
+					  for (var i = 1; i <= n; i++) {
+						var imageContainer = document.createElement("div");
+						imageContainer.className = "col-lg-4 col-sm-6";
+						var imageLink = document.createElement("a");
+						imageLink.className = "portfolio-box";
+						imageLink.href = "img/portfolio/fullsize/" + i + ".jpg";
+						imageContainer.appendChild(imageLink);
+						var image = document.createElement("img");
+						image.className = "img-fluid";
+						image.src = "img/portfolio/thumbnails/" + i + ".jpg";
+						imageLink.appendChild(image);
+						var captionContainer = document.createElement("div");
+						captionContainer.className = "portfolio-box-caption";
+						imageLink.appendChild(captionContainer);
+						var captionContent = document.createElement("div");
+						captionContent.className = "portfolio-box-caption-content";
+						captionContainer.appendChild(captionContent);
+						var categoryName = document.createElement("div");
+						categoryName.className = "project-category text-faded";
+						categoryName.textContent = "blah"
+						captionContent.appendChild(categoryName);
+						var projectName = document.createElement("div");
+						projectName.className = "project-name";
+						projectName.textContent = "blah2";
+						captionContent.appendChild(projectName);
+
+						document.getElementById("gallery_1").appendChild(imageContainer);
+					  }
+					}
+				}
+			};
+
+			xmlhttp.open("GET", "img/portfolio/thumbnails/", true);
+			xmlhttp.send();
+		</script> -->
+
+		<script>
+			var collectionsThumbnailsFolder = "img/collections/thumbnails/";
+			var collectionsBaseFolder = "img/collections/";
+
+			$.ajax({
+				url : collectionsThumbnailsFolder,
+				success: function (data) {
+					$(data).find("a").attr("href", function (i, val) {
+						if( val.match(/\.(jpe?g|png|gif)$/) ) {
+							appendImage(collectionsBaseFolder, val, "collections_images")
+						}
+					});
+				}
+			});
+
+			var realWeddingsThumbnailsfolder = "img/real_weddings/thumbnails/";
+			var realWeddingsBaseFolder = "img/real_weddings/";
+
+			$.ajax({
+				url : realWeddingsThumbnailsfolder,
+				success: function (data) {
+					$(data).find("a").attr("href", function (i, val) {
+						if( val.match(/\.(jpe?g|png|gif)$/) ) {
+							appendImage(realWeddingsBaseFolder, val, "real_weddings_images")
+						}
+					});
+				}
+			});
+
+			var flowergirlCommunionThumbnailsfolder = "img/flowergirl_communion/thumbnails/";
+			var flowergirlCommunionBaseFolder = "img/flowergirl_communion/";
+
+			$.ajax({
+				url : flowergirlCommunionThumbnailsfolder,
+				success: function (data) {
+					$(data).find("a").attr("href", function (i, val) {
+						if( val.match(/\.(jpe?g|png|gif)$/) ) {
+							appendImage(flowergirlCommunionBaseFolder, val, "flowergirl_communion_images")
+						}
+					});
+				}
+			});
+
+			var otherThumbnailsfolder = "img/gallery/thumbnails/";
+			var otherBaseFolder = "img/gallery/";
+
+			$.ajax({
+				url : otherThumbnailsfolder,
+				success: function (data) {
+					$(data).find("a").attr("href", function (i, val) {
+						if( val.match(/\.(jpe?g|png|gif)$/) ) {
+							appendImage(otherBaseFolder, val, "other_images")
+						}
+					});
+				}
+			});
+
+			function appendImage(imageBaseFolder, imageName, image_container_name) {
+				var imageContainer = document.createElement("div");
+				imageContainer.className = "col-lg-2 col-sm-6";
+				var imageLink = document.createElement("a");
+				imageLink.className = "portfolio-box";
+				imageLink.href = imageBaseFolder + "fullsize/" + imageName;
+				imageContainer.appendChild(imageLink);
+				var image = document.createElement("img");
+				image.className = "img-fluid";
+				image.src = imageBaseFolder + "thumbnails/" + imageName;
+				imageLink.appendChild(image);
+				var captionContainer = document.createElement("div");
+				captionContainer.className = "portfolio-box-caption";
+				imageLink.appendChild(captionContainer);
+				var captionContent = document.createElement("div");
+				captionContent.className = "portfolio-box-caption-content";
+				captionContainer.appendChild(captionContent);
+				var categoryName = document.createElement("div");
+				categoryName.className = "project-category text-faded";
+				categoryName.textContent = ""
+				captionContent.appendChild(categoryName);
+				var projectName = document.createElement("div");
+				projectName.className = "project-name";
+				projectName.textContent = "";
+				captionContent.appendChild(projectName);
+
+				document.getElementById(image_container_name).appendChild(imageContainer);
+			}
+		</script>
+	</body>
+
+</html>
