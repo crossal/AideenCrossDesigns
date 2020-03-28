@@ -13,6 +13,10 @@
 	text-decoration: none
 }
 
+.my_text-faded {
+  color: rgba(255, 255, 255, 0.9);
+}
+
 @media (max-width: 605px) {
 	iframe {
 		width: 100%;
